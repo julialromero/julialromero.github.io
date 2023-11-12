@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[See my CV](../files/CV.pdf)
+[See my CV](../files/Julia_Romero_CV.pdf)
