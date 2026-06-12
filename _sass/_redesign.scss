@@ -740,6 +740,17 @@ td > code {
   }
 }
 
+.publication-link--disabled {
+  color: $redesign-muted;
+  cursor: default;
+
+  &:hover {
+    color: $redesign-muted;
+    background: transparent;
+    border-color: $redesign-border;
+  }
+}
+
 .publication-link__icon {
   display: block;
   width: 0.88rem;

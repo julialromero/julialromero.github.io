@@ -75,8 +75,8 @@ redirect_from:
 
     <ul>
       <li><strong>Vision &amp; Geospatial Foundation Models</strong>: I develop and interpret self-supervised vision foundation models for Earth Observation tasks, examining the full pipeline from pretraining to downstream adaptation. I implemented and maintained multi-cluster distributed computing infrastructure on an NSF supercomputer to support large-scale pretraining (before LLMs knew Slurm scripting...) <a href="#publication-geospatial">[in submission, 2026]</a></li>
-      <li><strong>Multimodal Video Understanding</strong>: I build graph-based vision models for fine-grained activity recognition that are trained on diverse data but infer using only a single-input from egocentric (smart-glasses) video <a href="https://arxiv.org/abs/2501.04121">[ICCVW'25]</a>. This work with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a> won 1st place in Meta's Ego-Exo4D challenge (out of 20+ teams) and led to an invited spotlight talk at the CVPR 2025 Egocentric Vision Workshop.</li>
-      <li><strong>Human-Centered Sensing Systems</strong>: I design sensing algorithms for resource-constrained wearables and ML pipelines for health data, spanning physiological monitoring with smart earbuds, injury-risk modeling, and large-scale analysis of physical activity behavior.</li>
+      <li><strong>Multimodal Video Understanding</strong>: I build graph-based vision models for fine-grained activity recognition that are trained on diverse data but infer using only a single-input from egocentric (smart-glasses) video <a href="https://openaccess.thecvf.com/content/ICCV2025W/SG2RL/papers/Romero_Long-form_Reasoning_for_Keystep_Recognition_using_Graph_Neural_Networks_ICCVW_2025_paper.pdf">[ICCVW'25]</a>. This work with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a> won 1st place in Meta's Ego-Exo4D challenge (out of 20+ teams) and led to an invited spotlight talk at the CVPR 2025 Egocentric Vision Workshop.</li>
+      <li><strong>Human-Centered Sensing Systems</strong>: I design sensing algorithms for resource-constrained wearables and ML pipelines for health data, spanning physiological monitoring with smart earbuds <a href="https://dl.acm.org/doi/10.1145/3638550.3641136">[HotMobile'24]</a>, injury-risk modeling, basketball activity recognition <a href="https://www.mdpi.com/1424-8220/23/13/5879">[Sensors'23]</a>, and large-scale analysis of physical activity behavior <a href="https://www.mdpi.com/1660-4601/19/19/12933">[IJERPH'22]</a>.</li>
     </ul>
 
     <p>My Ph.D. research was funded in part by an <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1941898">NSF IUCRC award</a> from a proposal I co-wrote, which supported a 2.5-year collaboration with Intel Labs from 2023 to 2025. Previously, I was a research intern at <a href="https://www.nokia.com/bell-labs/research/sdsr/device-software/">Nokia Bell Labs</a> in Cambridge, UK, and worked on wearable computing and health ML at <a href="https://www.stryd.com/us/en">Stryd</a>, <a href="https://kinesisintegrated.com/">Kinesis Integrated</a>, and the <a href="https://www.jhuapl.edu/">Johns Hopkins Applied Physics Laboratory</a>.</p>
@@ -152,11 +152,11 @@ redirect_from:
         <div class="publication-title-row">
           <p class="publication-title">&ldquo;How do Self-Supervised Remote Sensing Vision Models Transfer to Downstream Tasks?&rdquo;</p>
           <div class="publication-links" aria-label="Publication links">
-            <a href="https://scholar.google.com/scholar?q=How+do+Self-Supervised+Remote+Sensing+Vision+Models+Transfer+to+Downstream+Tasks" class="publication-link" aria-label="Paper link" data-label="Paper">
+            <span class="publication-link publication-link--disabled" aria-label="Arxiv paper coming soon" data-label="Arxiv paper coming soon">
               <svg class="publication-link__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                 <path d="M14.25 2.25H6A2.25 2.25 0 0 0 3.75 4.5v15A2.25 2.25 0 0 0 6 21.75h12A2.25 2.25 0 0 0 20.25 19.5V8.25L14.25 2.25Zm-.75 1.81 4.94 4.94H15A1.5 1.5 0 0 1 13.5 7.5V4.06Zm4.5 16.19H6a.75.75 0 0 1-.75-.75v-15A.75.75 0 0 1 6 3.75h6v3.75A3 3 0 0 0 15 10.5h3.75v9a.75.75 0 0 1-.75.75Z"/>
               </svg>
-            </a>
+            </span>
           </div>
         </div>
         <p class="publication-meta">In submission, 2026.</p>
@@ -172,7 +172,7 @@ redirect_from:
         <div class="publication-title-row">
           <p class="publication-title">&ldquo;Graph-Based Multimodal and Multi-view Alignment for Keystep Recognition.&rdquo;</p>
           <div class="publication-links" aria-label="Publication links">
-            <a href="https://arxiv.org/abs/2501.04121" class="publication-link" aria-label="Paper link" data-label="Paper">
+            <a href="https://openaccess.thecvf.com/content/ICCV2025W/SG2RL/papers/Romero_Long-form_Reasoning_for_Keystep_Recognition_using_Graph_Neural_Networks_ICCVW_2025_paper.pdf" class="publication-link" aria-label="Paper link" data-label="Paper">
               <svg class="publication-link__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                 <path d="M14.25 2.25H6A2.25 2.25 0 0 0 3.75 4.5v15A2.25 2.25 0 0 0 6 21.75h12A2.25 2.25 0 0 0 20.25 19.5V8.25L14.25 2.25Zm-.75 1.81 4.94 4.94H15A1.5 1.5 0 0 1 13.5 7.5V4.06Zm4.5 16.19H6a.75.75 0 0 1-.75-.75v-15A.75.75 0 0 1 6 3.75h6v3.75A3 3 0 0 0 15 10.5h3.75v9a.75.75 0 0 1-.75.75Z"/>
               </svg>
