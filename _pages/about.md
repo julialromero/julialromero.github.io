@@ -75,7 +75,7 @@ redirect_from:
 
     <ul>
       <li><strong>Vision &amp; Geospatial Foundation Models</strong>: I develop and interpret self-supervised vision foundation models for Earth Observation tasks, examining the full pipeline from pretraining to downstream adaptation. I implemented and maintained multi-cluster distributed computing infrastructure on an NSF supercomputer to support large-scale pretraining (before LLMs knew Slurm scripting...) <a href="#publication-geospatial">[in submission, 2026]</a></li>
-      <li><strong>Multimodal Video Understanding</strong>: I build graph-based vision models for fine-grained activity recognition that are trained on diverse data but infer using only a single-input from egocentric (smart-glasses) video <a href="https://openaccess.thecvf.com/content/ICCV2025W/SG2RL/papers/Romero_Long-form_Reasoning_for_Keystep_Recognition_using_Graph_Neural_Networks_ICCVW_2025_paper.pdf">[ICCVW'25]</a>. This work with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a> won 1st place in Meta's Ego-Exo4D challenge (out of 20+ teams) and led to an invited spotlight talk at the CVPR 2025 Egocentric Vision Workshop.</li>
+      <li><strong>Multimodal Video Understanding</strong>: I build graph-based vision models for fine-grained activity recognition that are trained on diverse data but infer using only a single-input from egocentric (smart-glasses) video <a href="https://openaccess.thecvf.com/content/ICCV2025W/SG2RL/papers/Romero_Long-form_Reasoning_for_Keystep_Recognition_using_Graph_Neural_Networks_ICCVW_2025_paper.pdf">[ICCVW'25]</a>. This work with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a> won 1st place in Meta's Ego-Exo4D challenge (out of 20+ teams) and led to an invited spotlight talk at the <a href="https://youtu.be/iz2Flo4ZVm4?t=2472">CVPR 2025 Egocentric Vision Workshop</a>.</li>
       <li><strong>Human-Centered Sensing Systems</strong>: I design sensing algorithms for resource-constrained wearables and ML pipelines for health data, spanning physiological monitoring with smart earbuds <a href="https://dl.acm.org/doi/10.1145/3638550.3641136">[HotMobile'24]</a>, injury-risk modeling, basketball activity recognition <a href="https://www.mdpi.com/1424-8220/23/13/5879">[Sensors'23]</a>, and large-scale analysis of physical activity behavior <a href="https://www.mdpi.com/1660-4601/19/19/12933">[IJERPH'22]</a>.</li>
     </ul>
 
@@ -130,7 +130,7 @@ redirect_from:
       <p>Data engineering intern at <a href="https://www.stryd.com/us/en">Stryd</a> (Boulder, CO), where I built and deployed injury-risk models for runners.</p>
     </article>
     <article class="news-item">
-      <time datetime="2020">2020&ndash;2021</time>
+      <time datetime="Summer 2020">2020 and 2021</time>
       <p>Data science intern at Johns Hopkins Applied Physics Laboratory, building disability-claims analytics now in use by SSA claims courts.</p>
     </article>
   </div>
@@ -159,7 +159,7 @@ redirect_from:
             </span>
           </div>
         </div>
-        <p class="publication-meta">In submission, 2026.</p>
+        <p class="publication-meta">In submission, May 2026.</p>
       </div>
     </article>
 
