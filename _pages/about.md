@@ -71,7 +71,7 @@ redirect_from:
     </div>
   </div>
   <div class="about-copy">
-    <p>I research machine learning for spatiotemporal sensor data, developing self-supervised and multimodal learning methods for computer vision, human-centered sensing, and Earth Observation. I recently completed my Ph.D. in Computer Science at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>, and my research spans these topics:</p>
+    <p>I research machine learning for spatiotemporal sensor data, developing effective data- and resource-efficient methods for computer vision, human-centered sensing, and Earth Observation. I recently completed my Ph.D. in Computer Science at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>, and my research spans these topics:</p>
 
     <ul>
       <li><strong>Vision &amp; Geospatial Foundation Models</strong>: I develop and interpret self-supervised vision foundation models for Earth Observation tasks, examining the full pipeline from pretraining to downstream adaptation. I implemented and maintained multi-cluster distributed computing infrastructure on an NSF supercomputer to support large-scale pretraining (before LLMs knew Slurm scripting...) <a href="#publication-geospatial">[in submission, 2026]</a></li>
@@ -107,11 +107,11 @@ redirect_from:
     </article>
     <article class="news-item">
       <time datetime="2025-07">Summer 2025</time>
-      <p>Consulted for <a href="https://kinesisintegrated.com/">Kinesis Integrated</a> on ML for endurance training data.</p>
+      <p>Consulted for <a href="https://kinesisintegrated.com/">Kinesis Integrated</a> on ML for injury modeling in endurance athletes.</p>
     </article>
     <article class="news-item">
       <time datetime="2025-06">Jun 2025</time>
-      <p>Won 1st place (of 20+ teams) in Meta&rsquo;s Ego-Exo4D Keystep Recognition Challenge and gave an invited spotlight talk at the <a href="https://youtu.be/iz2Flo4ZVm4?t=2472">CVPR Egocentric Vision Workshop</a>.</p>
+      <p>Won 1st place (of 20+ teams) in the Ego-Exo4D Keystep Recognition Challenge and gave an invited spotlight talk at the <a href="https://youtu.be/iz2Flo4ZVm4?t=2472">CVPR Egocentric Vision Workshop</a>.</p>
     </article>
     <article class="news-item">
       <time datetime="2024-02">Feb 2024</time>
@@ -123,11 +123,11 @@ redirect_from:
     </article>
     <article class="news-item">
       <time datetime="2023-04">Apr 2023</time>
-      <p>Won NSF IUCRC funding for our proposal on graph representation learning, launching a 2.5-year collaboration with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a>.</p>
+      <p>Awarded NSF IUCRC funding for our proposal on graph representation learning, launching a 2.5-year collaboration with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a>.</p>
     </article>
     <article class="news-item">
       <time datetime="2022-06">Summer 2022</time>
-      <p>Data science intern at <a href="https://www.stryd.com/us/en">Stryd</a> (Boulder, CO), where I built and deployed injury-risk models for runners.</p>
+      <p>Data engineering intern at <a href="https://www.stryd.com/us/en">Stryd</a> (Boulder, CO), where I built and deployed injury-risk models for runners.</p>
     </article>
     <article class="news-item">
       <time datetime="2020">2020&ndash;2021</time>
