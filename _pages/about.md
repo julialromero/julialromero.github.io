@@ -71,12 +71,12 @@ redirect_from:
     </div>
   </div>
   <div class="about-copy">
-    <p>I research machine learning and AI for applications in computer vision, human-centered sensing, and Earth Observation. I recently completed my Ph.D. in Computer Science at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>, and my research has spanned these topics:</p>
+    <p>I research machine learning for spatiotemporal sensor data, developing self-supervised and multimodal learning methods for computer vision, human-centered sensing, and Earth Observation. I recently completed my Ph.D. in Computer Science at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>, and my research spans these topics:</p>
 
     <ul>
-      <li><strong>Vision &amp; Geospatial Foundation Models</strong>: I develop and interpret self-supervised vision foundation models for Earth Observation tasks, examining the full pipeline from pretraining to task adaptation. I used Slurm/HPC for this project (before LLMs knew Slurm...) and implemented multi-cluster distributed computing infrastructure on an NSF supercomputer to support large-scale vision pretraining and evaluation [in submission, 2026] </li>
-      <li><strong>Multimodal Video Understanding</strong>: I build graph-based vision models for fine-grained activity recognition that are trained on diverse data but infer using only a single-input from egocentric (smart-glasses) video [ICCVW'25]. This work with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a> won 1st place in Meta's Ego-Exo4D challenge (out of 20+ teams) and led to an invited spotlight talk at the CVPR 2025 Egocentric Vision Workshop.</li>
-      <li><strong>Human-Centered Sensing Systems</strong>: I design sensing algorithms for resource-constrained wearables and ML pipelines for health data, spanning physiological monitoring with smart earbuds, injury-risk modeling, and large-scale analysis of physical activity behavior [IJERPH'22].</li>
+      <li><strong>Vision &amp; Geospatial Foundation Models</strong>: I develop and interpret self-supervised vision foundation models for Earth Observation tasks, examining the full pipeline from pretraining to downstream adaptation. I implemented and maintained multi-cluster distributed computing infrastructure on an NSF supercomputer to support large-scale pretraining (before LLMs knew Slurm scripting...) <a href="#publication-geospatial">[in submission, 2026]</a></li>
+      <li><strong>Multimodal Video Understanding</strong>: I build graph-based vision models for fine-grained activity recognition that are trained on diverse data but infer using only a single-input from egocentric (smart-glasses) video <a href="https://arxiv.org/abs/2501.04121">[ICCVW'25]</a>. This work with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a> won 1st place in Meta's Ego-Exo4D challenge (out of 20+ teams) and led to an invited spotlight talk at the CVPR 2025 Egocentric Vision Workshop.</li>
+      <li><strong>Human-Centered Sensing Systems</strong>: I design sensing algorithms for resource-constrained wearables and ML pipelines for health data, spanning physiological monitoring with smart earbuds, injury-risk modeling, and large-scale analysis of physical activity behavior.</li>
     </ul>
 
     <p>My Ph.D. research was funded in part by an <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1941898">NSF IUCRC award</a> from a proposal I co-wrote, which supported a 2.5-year collaboration with Intel Labs from 2023 to 2025. Previously, I was a research intern at <a href="https://www.nokia.com/bell-labs/research/sdsr/device-software/">Nokia Bell Labs</a> in Cambridge, UK, and worked on wearable computing and health ML at <a href="https://www.stryd.com/us/en">Stryd</a>, <a href="https://kinesisintegrated.com/">Kinesis Integrated</a>, and the <a href="https://www.jhuapl.edu/">Johns Hopkins Applied Physics Laboratory</a>.</p>
@@ -143,7 +143,7 @@ redirect_from:
     </div>
   </div>
   <div class="publication-list" aria-label="Publications">
-    <article class="publication-item publication-item--with-thumb">
+    <article class="publication-item publication-item--with-thumb" id="publication-geospatial">
       <div class="publication-thumb">
         <img src="{{ '/images/foundation-model-thumbnail.png' | relative_url }}" alt="Teaser thumbnail for self-supervised geospatial transfer work">
       </div>
