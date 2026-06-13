@@ -107,10 +107,6 @@ redirect_from:
       <p>Presented our graph-based keystep recognition paper at the ICCV 2025 Workshop on Scene Graphs and Graph Representation Learning.</p>
     </article>
     <article class="news-item">
-      <time datetime="2025-07">Summer 2025</time>
-      <p>Consulted for <a href="https://kinesisintegrated.com/">Kinesis Integrated</a> on ML for injury modeling in endurance athletes.</p>
-    </article>
-    <article class="news-item">
       <time datetime="2025-06">Jun 2025</time>
       <p>Won 1st place (of 20+ teams) in the Ego-Exo4D Keystep Recognition Challenge and gave an invited spotlight talk at the <a href="https://youtu.be/iz2Flo4ZVm4?t=2472">CVPR Egocentric Vision Workshop</a>.</p>
     </article>
@@ -125,14 +121,6 @@ redirect_from:
     <article class="news-item">
       <time datetime="2023-04">Apr 2023</time>
       <p>Awarded NSF IUCRC funding for our proposal on graph representation learning, launching a 2.5-year collaboration with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a>.</p>
-    </article>
-    <article class="news-item">
-      <time datetime="2022-06">Summer 2022</time>
-      <p>Data engineering intern at <a href="https://www.stryd.com/us/en">Stryd</a> (Boulder, CO), where I built and deployed injury-risk models for runners.</p>
-    </article>
-    <article class="news-item">
-      <time datetime="Summer 2020">2020 and 2021</time>
-      <p>Data science intern at Johns Hopkins Applied Physics Laboratory, building disability-claims analytics now in use by SSA claims courts.</p>
     </article>
   </div>
 </section>
@@ -160,7 +148,7 @@ redirect_from:
             </span>
           </div>
         </div>
-        <p class="publication-meta">In submission, May 2026.</p>
+        <p class="publication-meta">In submission to ACM SIGSPATIAL, May 2026.</p>
       </div>
     </article>
 
