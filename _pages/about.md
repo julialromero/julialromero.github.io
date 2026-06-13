@@ -66,7 +66,7 @@ redirect_from:
 <section class="home-section home-bio" id="bio" aria-labelledby="about-me">
   <div class="section-heading-row">
     <div>
-      <p class="home-bio__notice">I am on the job market and seeking Research Scientist roles!</p>
+      <p class="home-bio__notice">I am currently seeking Research Scientist roles in AI/ML, especially in computer vision, multimodal models, foundation models, or sensing systems.</p>
       <h2 id="about-me">About Me</h2>
     </div>
   </div>
@@ -81,7 +81,6 @@ redirect_from:
 
     <p>My Ph.D. research was funded in part by an <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1941898">NSF IUCRC award</a> from a proposal I co-wrote, which supported a 2.5-year collaboration with Intel Labs from 2023 to 2025. Previously, I was a research intern at <a href="https://www.nokia.com/bell-labs/research/sdsr/device-software/">Nokia Bell Labs</a> in Cambridge, UK, and worked on wearable computing and health ML at <a href="https://www.stryd.com/us/en">Stryd</a>, <a href="https://kinesisintegrated.com/">Kinesis Integrated</a>, and the <a href="https://www.jhuapl.edu/">Johns Hopkins Applied Physics Laboratory</a>.</p>
 
-    <p>I am currently seeking Research Scientist roles in AI/ML, especially in computer vision, foundation models and self-supervised learning, or sensing systems.</p>
   </div>
 </section>
 
