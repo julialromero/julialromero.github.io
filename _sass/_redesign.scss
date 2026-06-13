@@ -546,6 +546,21 @@ td > code {
   }
 }
 
+.profile-text-link {
+  display: inline-flex;
+  align-items: center;
+  color: $redesign-accent;
+  font-size: 0.92rem;
+  font-weight: 500;
+  line-height: 1;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    color: $redesign-accent-strong;
+  }
+}
+
 .home-linkbar a[href="#"] {
   color: $redesign-muted;
   border-color: $redesign-border;
