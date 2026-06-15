@@ -69,17 +69,17 @@ redirect_from:
 <section class="home-section home-bio" id="bio" aria-labelledby="about-me">
   <div class="section-heading-row">
     <div>
-      <p class="home-bio__notice">I am on the job market and seeking Research Scientist roles in ML/AI, especially in computer vision, foundation models and self-supervised learning, and sensing systems.</p>
+      <p class="home-bio__notice">I am on the job market and seeking Research Scientist roles in AI/ML, especially in computer vision, foundation models and self-supervised learning, and sensing systems.</p>
       <h2 id="about-me">About Me</h2>
     </div>
   </div>
   <div class="about-copy">
-    <p>I recently completed my Ph.D. in Computer Science at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>. I build effective and efficient ML/AI approaches for computer vision, text, and sensor data, spanning applications in geospatial AI, video understanding, and ubiquitous computing. My research has covered supervised, self-supervised, and transfer learning, multimodal frameworks, and architectures including Vision Transformers, Graph Neural Networks, and segmentation heads. My research has spanned these topics:</p>
+    <p>I recently completed my PhD in Computer Science at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>. I build effective and efficient AI/ML approaches for computer vision, text, and sensor data, spanning applications in geospatial AI, video understanding, and ubiquitous computing. My research has covered supervised, self-supervised, and transfer learning, multimodal frameworks, and architectures including Vision Transformers, Graph Neural Networks, and segmentation heads. My research has spanned these topics:</p>
 
     <ul>
       <li><strong>Vision &amp; Geospatial Foundation Models</strong>: I develop and interpret self-supervised vision foundation models for Earth Observation tasks, examining pretraining and transfer learning/adaptation strategies. For this work, I implemented and maintained multi-cluster distributed computing infrastructure on an NSF supercomputer <a href="https://arxiv.org/abs/2606.13896">[in submission, 2026].</a></li>
       <li><strong>Multimodal Video Understanding</strong>: I build lightweight and flexible graph-based vision models for fine-grained activity recognition. Our framework can be trained on multimodal and multi-view (multiple cameras) data while only requiring a single input for inference <a href="https://openaccess.thecvf.com/content/ICCV2025W/SG2RL/papers/Romero_Long-form_Reasoning_for_Keystep_Recognition_using_Graph_Neural_Networks_ICCVW_2025_paper.pdf">[ICCVW'25]</a>. This work with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a> won 1st place in the Ego-Exo4D challenge (out of 20+ teams) and led to an invited spotlight talk at the <a href="https://youtu.be/iz2Flo4ZVm4?t=2472">CVPR 2025 Egocentric Vision Workshop</a>.</li>
-      <li><strong>Human-Centered Sensing Systems</strong>: I design sensing algorithms for resource-constrained wearables and ML pipelines for health data, spanning physiological monitoring with smart earbuds <a href="https://dl.acm.org/doi/10.1145/3638550.3641136">[HotMobile'24]</a>, <a href="https://www.stryd.com/us/en">injury-risk modeling</a>, activity recognition with motion sensors <a href="https://www.mdpi.com/1424-8220/23/13/5879">[Sensors'23]</a>, and large-scale analysis of physical activity behavior <a href="https://www.mdpi.com/1660-4601/19/19/12933">[IJERPH'22]</a>.</li>
+      <li><strong>Human-Centered Sensing Systems</strong>: I design sensing algorithms for resource-constrained wearables and ML pipelines for health data, spanning physiological monitoring with smart earbuds <a href="https://dl.acm.org/doi/10.1145/3638550.3641136">[HotMobile'24]</a>, <a href="https://www.stryd.com/us/en">injury-risk modeling</a>, activity recognition with motion sensors <a href="https://www.mdpi.com/1424-8220/23/13/5879">[Sensors'23]</a>, and large-scale physical-activity behavior analysis <a href="https://www.mdpi.com/1660-4601/19/19/12933">[IJERPH'22]</a>.</li>
     </ul>
 
     <p>My Ph.D. research was funded in part by an <a href="https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/">NSF IUCRC award</a> from a proposal I co-wrote, which supported a collaboration with Intel Labs from 2023 to 2025. Previously, I was a research intern at <a href="https://www.nokia.com/bell-labs/research/sdsr/device-software/">Nokia Bell Labs</a> in Cambridge, UK, and worked on wearable computing and health ML at <a href="https://www.stryd.com/us/en">Stryd</a>, <a href="https://kinesisintegrated.com/">Kinesis Integrated</a>, and the <a href="https://www.jhuapl.edu/">Johns Hopkins Applied Physics Laboratory</a>.</p>
@@ -110,7 +110,7 @@ redirect_from:
     </article>
     <article class="news-item">
       <time datetime="2025-06">Jun 2025</time>
-      <p>Won 1st place (of 20+ teams) in the Ego-Exo4D Keystep Recognition Challenge and gave an invited spotlight talk at the <a href="https://youtu.be/iz2Flo4ZVm4?t=2472">CVPR Egocentric Vision Workshop</a>.</p>
+      <p>Won 1st place (out of 20+ teams) in the Ego-Exo4D Keystep Recognition Challenge and gave an invited spotlight talk at the <a href="https://youtu.be/iz2Flo4ZVm4?t=2472">CVPR Egocentric Vision Workshop</a>.</p>
     </article>
     <article class="news-item">
       <time datetime="2024-02">Feb 2024</time>
@@ -176,7 +176,7 @@ redirect_from:
           </div>
         </div>
         <p class="publication-meta">International Conference on Computer Vision Workshops (ICCVW), 2025</p>
-        <p class="publication-note">1st place, Ego-Exo4D Keystep Recognition Challenge for Video Understanding</p>
+        <p class="publication-note publication-note--award"><span class="publication-award-icon" aria-hidden="true"><svg viewBox="0 0 24 24" focusable="false"><path d="M7 2.75h10a1.25 1.25 0 0 1 1.25 1.25v1.5A4.25 4.25 0 0 1 15 9.64v1.23a4.64 4.64 0 0 1-2.25 3.98v2.15h3a.75.75 0 0 1 0 1.5H8.25a.75.75 0 0 1 0-1.5h3v-2.15A4.64 4.64 0 0 1 9 10.87V9.64A4.25 4.25 0 0 1 5.75 5.5V4A1.25 1.25 0 0 1 7 2.75Zm8 1.5v1.25A2.75 2.75 0 0 0 16.75 7.99 2.75 2.75 0 0 0 16.75 5.5V4.25H15Zm-7.75 0v1.25a2.75 2.75 0 0 0 1.75 2.49A2.75 2.75 0 0 0 9 5.5V4.25H7.25Z"/></svg></span>1st place, Ego-Exo4D Keystep Recognition Challenge for Video Understanding</p>
         <p class="publication-note">Invited spotlight talk @ CVPR Egocentric Vision Workshop, 2025</p>
       </div>
     </article>
@@ -273,7 +273,7 @@ redirect_from:
     </div>
   </div>
   <div class="about-copy">
-    <p>In my free time I enjoy training for <a href="https://ultrasignup.com/results_participant.aspx?fname=Julia&amp;lname=Romero">ultramarathons</a>, skiing, playing soccer, and being in nature. I also enjoy playing instruments with friends, listening to music, and learning music production software.</p>
+    <p>In my free time, I enjoy training for <a href="https://ultrasignup.com/results_participant.aspx?fname=Julia&amp;lname=Romero">ultramarathons</a>, skiing, playing soccer, and being in nature. I also enjoy playing instruments with friends, listening to music, and learning music production software.</p>
   </div>
 </section>
   </div>

@@ -704,6 +704,29 @@ td > code {
   white-space: nowrap;
 }
 
+.publication-note--award {
+  display: flex;
+  align-items: center;
+  gap: 0.38rem;
+  color: #b25a14;
+  font-weight: 500;
+}
+
+.publication-award-icon {
+  display: inline-flex;
+  flex: 0 0 auto;
+  width: 0.92rem;
+  height: 0.92rem;
+  color: #d97706;
+
+  svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+    fill: currentColor;
+  }
+}
+
 .publication-links {
   display: flex;
   flex: 0 0 auto;
