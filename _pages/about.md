@@ -33,9 +33,11 @@ redirect_from:
     <p class="home-tags" aria-label="Research keywords">
       <span>Computer Vision</span>
       <span class="home-tags__separator" aria-hidden="true">&diam;</span>
-      <span>Geospatial AI</span>
+      <span>Self-Supervised Learning</span>
       <span class="home-tags__separator" aria-hidden="true">&diam;</span>
-      <span>Mobile/Wearable Computing</span>
+      <span>Multimodal Models</span>
+      <span class="home-tags__separator" aria-hidden="true">&diam;</span>
+      <span>Geospatial AI</span>
     </p>
 
     <div class="home-linkbar" aria-label="Profile links">
@@ -67,23 +69,23 @@ redirect_from:
 <section class="home-section home-bio" id="bio" aria-labelledby="about-me">
   <div class="section-heading-row">
     <div>
-      <p class="home-bio__notice">I am on the job market and seeking Research Scientist roles!</p>
+      <p class="home-bio__notice">I am on the job market and seeking Research Scientist roles in ML/AI, especially in computer vision, foundation models and self-supervised learning, and sensing systems.</p>
       <h2 id="about-me">About Me</h2>
     </div>
   </div>
   <div class="about-copy">
-    <p>I recently completed my Ph.D. in Computer Science at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>. I am interested in AI research regarding computer vision, vision-language (VLMs) and multimodal sensor models, foundation models, interpretability, and model adaptation and transfer.  My doctoral research focuses on effective and efficient ML/AI for sensor data that handles data and system constraints, spanning applications in ubiquitous computing, video understanding, and Earth Observation. My research has spanned these topics:</p>
+    <p>I recently completed my Ph.D. in Computer Science at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>. I build effective and efficient ML/AI approaches for computer vision, text, and sensor data, spanning applications in geospatial AI, video understanding, and ubiquitous computing. My research has covered supervised, self-supervised, and transfer learning, multimodal frameworks, and architectures including Vision Transformers, Graph Neural Networks, and segmentation heads. My research has spanned these topics:</p>
 
     <ul>
-      <li><strong>Vision &amp; Geospatial Foundation Models</strong>: I develop and interpret self-supervised vision foundation models for Earth Observation tasks, examining pretraining and transfer learning/adaptation strategies. For FM model development, I implemented and maintained multi-cluster distributed computing infrastructure on an NSF supercomputer (before LLMs knew Slurm...) <a href="https://arxiv.org/abs/2606.13896">[in submission, 2026]</a></li>
-      <li><strong>Multimodal Video Understanding</strong>: I build graph-based vision models for fine-grained activity recognition that are trained on diverse data but infer from a single egocentric (smart-glasses) input <a href="https://openaccess.thecvf.com/content/ICCV2025W/SG2RL/papers/Romero_Long-form_Reasoning_for_Keystep_Recognition_using_Graph_Neural_Networks_ICCVW_2025_paper.pdf">[ICCVW'25]</a>. This work with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a> won 1st place in the Ego-Exo4D challenge (out of 20+ teams) and led to an invited spotlight talk at the <a href="https://youtu.be/iz2Flo4ZVm4?t=2472">CVPR 2025 Egocentric Vision Workshop</a>.</li>
-      <li><strong>Human-Centered Sensing Systems</strong>: I design sensing algorithms for resource-constrained wearables and ML pipelines for health data, spanning physiological monitoring with smart earbuds <a href="https://dl.acm.org/doi/10.1145/3638550.3641136">[HotMobile'24]</a>, injury-risk modeling with fitness wearables through internships, activity recognition with motion sensors <a href="https://www.mdpi.com/1424-8220/23/13/5879">[Sensors'23]</a>, and large-scale analysis of physical activity behavior <a href="https://www.mdpi.com/1660-4601/19/19/12933">[IJERPH'22]</a>.</li>
+      <li><strong>Vision &amp; Geospatial Foundation Models</strong>: I develop and interpret self-supervised vision foundation models for Earth Observation tasks, examining pretraining and transfer learning/adaptation strategies. For this work, I implemented and maintained multi-cluster distributed computing infrastructure on an NSF supercomputer <a href="https://arxiv.org/abs/2606.13896">[in submission, 2026].</a></li>
+      <li><strong>Multimodal Video Understanding</strong>: I build lightweight and flexible graph-based vision models for fine-grained activity recognition. Our framework can be trained on multimodal and multi-view (multiple cameras) data while only requiring a single input for inference <a href="https://openaccess.thecvf.com/content/ICCV2025W/SG2RL/papers/Romero_Long-form_Reasoning_for_Keystep_Recognition_using_Graph_Neural_Networks_ICCVW_2025_paper.pdf">[ICCVW'25]</a>. This work with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a> won 1st place in the Ego-Exo4D challenge (out of 20+ teams) and led to an invited spotlight talk at the <a href="https://youtu.be/iz2Flo4ZVm4?t=2472">CVPR 2025 Egocentric Vision Workshop</a>.</li>
+      <li><strong>Human-Centered Sensing Systems</strong>: I design sensing algorithms for resource-constrained wearables and ML pipelines for health data, spanning physiological monitoring with smart earbuds <a href="https://dl.acm.org/doi/10.1145/3638550.3641136">[HotMobile'24]</a>, <a href="https://www.stryd.com/us/en">injury-risk modeling</a>, activity recognition with motion sensors <a href="https://www.mdpi.com/1424-8220/23/13/5879">[Sensors'23]</a>, and large-scale analysis of physical activity behavior <a href="https://www.mdpi.com/1660-4601/19/19/12933">[IJERPH'22]</a>.</li>
     </ul>
 
     <p>My Ph.D. research was funded in part by an <a href="https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/">NSF IUCRC award</a> from a proposal I co-wrote, which supported a collaboration with Intel Labs from 2023 to 2025. Previously, I was a research intern at <a href="https://www.nokia.com/bell-labs/research/sdsr/device-software/">Nokia Bell Labs</a> in Cambridge, UK, and worked on wearable computing and health ML at <a href="https://www.stryd.com/us/en">Stryd</a>, <a href="https://kinesisintegrated.com/">Kinesis Integrated</a>, and the <a href="https://www.jhuapl.edu/">Johns Hopkins Applied Physics Laboratory</a>.</p>
 
   </div>
-  <p>I am currently seeking Research Scientist roles in AI/ML, especially in computer vision, foundation models and self-supervised learning, and sensing systems.</p>
+
 </section>
 
 <section class="home-section home-news" id="recent-news" aria-labelledby="recent-news-title">
