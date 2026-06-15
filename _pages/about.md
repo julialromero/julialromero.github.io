@@ -141,11 +141,11 @@ redirect_from:
         <div class="publication-title-row">
           <p class="publication-title">&ldquo;How do Self-Supervised Remote Sensing Vision Models Transfer to Downstream Tasks?&rdquo;</p>
           <div class="publication-links" aria-label="Publication links">
-            <span class="publication-link publication-link--disabled" aria-label="Arxiv paper coming soon" data-label="Arxiv paper coming soon">
+            <a href="https://arxiv.org/abs/2606.13896" class="publication-link" aria-label="Paper link" data-label="Paper">
               <svg class="publication-link__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                 <path d="M14.25 2.25H6A2.25 2.25 0 0 0 3.75 4.5v15A2.25 2.25 0 0 0 6 21.75h12A2.25 2.25 0 0 0 20.25 19.5V8.25L14.25 2.25Zm-.75 1.81 4.94 4.94H15A1.5 1.5 0 0 1 13.5 7.5V4.06Zm4.5 16.19H6a.75.75 0 0 1-.75-.75v-15A.75.75 0 0 1 6 3.75h6v3.75A3 3 0 0 0 15 10.5h3.75v9a.75.75 0 0 1-.75.75Z"/>
               </svg>
-            </span>
+            </a>
           </div>
         </div>
         <p class="publication-meta">In submission to ACM SIGSPATIAL, May 2026.</p>
