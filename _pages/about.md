@@ -150,7 +150,7 @@ redirect_from:
             </a>
           </div>
         </div>
-        <p class="publication-meta">In submission to ACM SIGSPATIAL, May 2026.</p>
+        <p class="publication-meta">arXiv preprint, 2026. Under review at ACM SIGSPATIAL.</p>
       </div>
     </article>
 
