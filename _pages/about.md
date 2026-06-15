@@ -177,7 +177,7 @@ redirect_from:
         </div>
         <p class="publication-meta">International Conference on Computer Vision Workshops (ICCVW), 2025</p>
         <p class="publication-note publication-note--award"><span class="publication-award-icon" aria-hidden="true"><svg viewBox="0 0 24 24" focusable="false"><path d="M7 2.75h10a1.25 1.25 0 0 1 1.25 1.25v1.5A4.25 4.25 0 0 1 15 9.64v1.23a4.64 4.64 0 0 1-2.25 3.98v2.15h3a.75.75 0 0 1 0 1.5H8.25a.75.75 0 0 1 0-1.5h3v-2.15A4.64 4.64 0 0 1 9 10.87V9.64A4.25 4.25 0 0 1 5.75 5.5V4A1.25 1.25 0 0 1 7 2.75Zm8 1.5v1.25A2.75 2.75 0 0 0 16.75 7.99 2.75 2.75 0 0 0 16.75 5.5V4.25H15Zm-7.75 0v1.25a2.75 2.75 0 0 0 1.75 2.49A2.75 2.75 0 0 0 9 5.5V4.25H7.25Z"/></svg></span>1st place, Ego-Exo4D Keystep Recognition Challenge for Video Understanding</p>
-        <p class="publication-note">Invited spotlight talk @ CVPR Egocentric Vision Workshop, 2025</p>
+        <p class="publication-note publication-note--spotlight"><span class="publication-spotlight-icon" aria-hidden="true"><svg viewBox="0 0 24 24" focusable="false"><path d="m12 2.5 2.9 5.88 6.49.94-4.7 4.58 1.11 6.47L12 17.32 6.2 20.37l1.11-6.47-4.7-4.58 6.49-.94L12 2.5Z"/></svg></span>Invited spotlight talk @ CVPR Egocentric Vision Workshop, 2025</p>
       </div>
     </article>
 
