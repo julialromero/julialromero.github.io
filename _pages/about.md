@@ -35,7 +35,7 @@ redirect_from:
       <span class="home-tags__separator" aria-hidden="true">&diam;</span>
       <span>Self-Supervised Learning</span>
       <span class="home-tags__separator" aria-hidden="true">&diam;</span>
-      <span>Multimodal Models</span>
+      <span>Multimodal Learning</span>
       <span class="home-tags__separator" aria-hidden="true">&diam;</span>
       <span>Geospatial AI</span>
     </p>
@@ -74,7 +74,7 @@ redirect_from:
     </div>
   </div>
   <div class="about-copy">
-    <p>I recently completed my PhD in Computer Science at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>. I build effective and efficient AI/ML approaches for spatiotemporal vision, multimodal, and sensor data, with applications in geospatial AI, video understanding, and ubiquitous computing. My work focuses on supervised and self-supervised learning, multimodal modeling, and practical approaches for real-world use. Specifically, my research has spanned these topics:</p>
+    <p>I recently completed my PhD in Computer Science at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>. I build effective and efficient AI/ML approaches for vision, multimodal, and sensor data, with applications in geospatial AI, video understanding, and ubiquitous computing. My work focuses on supervised and self-supervised learning, multimodal learning, and advancing practical models for real-world use. Specifically, my research has spanned these topics:</p>
 
     <ul>
       <li><strong>Vision &amp; Geospatial Foundation Models</strong>: I develop and interpret self-supervised vision foundation models for Earth observation tasks, examining pretraining, transfer learning, and downstream adaptation. For this work, I implemented and maintained multi-cluster distributed computing infrastructure on an NSF supercomputer <a href="https://arxiv.org/abs/2606.13896">[under review, 2026]</a>.</li>
@@ -82,7 +82,7 @@ redirect_from:
       <li><strong>Human-Centered Sensing Systems</strong>: I design sensing algorithms for resource-constrained wearables and ML pipelines for health and fitness data, spanning physiological monitoring with smart earbuds <a href="https://dl.acm.org/doi/10.1145/3638550.3641136">[HotMobile 2024]</a>, <a href="https://www.stryd.com/us/en">injury-risk modeling from wearables data</a>, activity recognition with motion sensors <a href="https://www.mdpi.com/1424-8220/23/13/5879">[Sensors 2023]</a>, and large-scale physical-activity behavior analysis <a href="https://www.mdpi.com/1660-4601/19/19/12933">[IJERPH 2022]</a>.</li>
     </ul>
 
-    <p>My PhD research was funded in part by an <a href="https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/">NSF IUCRC award</a> from a proposal I co-wrote, which supported a collaboration with Intel Labs from 2023 to 2025. During my PhD, I was also a research intern at <a href="https://www.nokia.com/bell-labs/research/sdsr/device-software/">Nokia Bell Labs</a> in Cambridge, UK and worked on wearable computing and health ML at <a href="https://www.stryd.com/us/en">Stryd</a>, <a href="https://kinesisintegrated.com/">Kinesis Integrated</a>, and the <a href="https://www.jhuapl.edu/">Johns Hopkins Applied Physics Laboratory</a>.</p>
+    <p>My PhD research was funded in part by an <a href="https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/">NSF IUCRC award</a> from a proposal I co-wrote, which supported a collaboration with Intel Labs from 2023 to 2025. Throughout my PhD, I was also a research intern at <a href="https://www.nokia.com/bell-labs/research/sdsr/device-software/">Nokia Bell Labs</a> in Cambridge, UK and worked on wearable computing and health ML at <a href="https://www.stryd.com/us/en">Stryd</a>, <a href="https://kinesisintegrated.com/">Kinesis Integrated</a>, and the <a href="https://www.jhuapl.edu/">Johns Hopkins Applied Physics Laboratory</a>.</p>
 
   </div>
 
@@ -121,8 +121,16 @@ redirect_from:
       <p>Research intern in the Pervasive Systems group at <a href="https://www.nokia.com/bell-labs/research/sdsr/device-software/">Nokia Bell Labs</a> (Cambridge, UK), working on respiratory sensing from in-ear PPG.</p>
     </article>
     <article class="news-item">
+      <time datetime="2023">Fall 2023</time>
+      <p>Won 1st place in the NSF IUCRC on Personalized Pervasive Intelligence research poster competition (out of 30 students).</p>
+    </article>
+    <article class="news-item">
       <time datetime="2023-04">Apr 2023</time>
       <p>Awarded NSF IUCRC funding for our proposal on graph representation learning, launching a 2.5-year collaboration with <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Improving-Video-Understanding-Through-Graph-Based-AI-for-Better/post/1720916">Intel Labs</a>.</p>
+    </article>
+    <article class="news-item">
+      <time datetime="2020">Fall 2020</time>
+      <p>Recognized as a top teaching assistant by the CU Computer Science department (out of 90 TAs).</p>
     </article>
   </div>
 </section>
