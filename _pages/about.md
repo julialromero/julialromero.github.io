@@ -205,7 +205,7 @@ redirect_from:
             </a>
           </div>
         </div>
-        <p class="publication-meta">International Workshop on Mobile Computing Systems and Applications (HotMobile), 2024</p>
+        <p class="publication-meta">ACM International Workshop on Mobile Computing Systems and Applications (HotMobile), 2024</p>
       </div>
     </article>
 
